@@ -1,6 +1,6 @@
 name: Cleo
 favicon: null
-layout_spectrum: 0.8587182192131877
+layout_spectrum: 0.88056
 typography_spectrum: 0.24538651295006275
 title: Cleo Pat-Her
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.005803585750982165
-  lightness: 0.02148670982569456
+    - '#b1bcc0'
+    - '#131313'
+    - '#908c83'
+    - '#684c34'
+    - '#3d3936'
+  brandStrength: 0.5
+  lightness: 0
   saturation: 0.5856019672937691
-  rhythmicContrast: 0.7077990237157792
+  rhythmicContrast: 0.5
 purpose: []
