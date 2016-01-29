@@ -1,0 +1,29 @@
+name: Cleo
+favicon: null
+layout_spectrum: 0.8587182192131877
+typography_spectrum: 0.24538651295006275
+title: Cleo Pat-Her
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.005803585750982165
+  lightness: 0.02148670982569456
+  saturation: 0.5856019672937691
+  rhythmicContrast: 0.7077990237157792
+purpose: []
