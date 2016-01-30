@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Cleo Pat-Her]]></title>
         <description><![CDATA[Cleo Pat-Her]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cleo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 12:57:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Jan 2016 08:13:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cleo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b556ad51-906c-496f-92a2-687a9078be8a.png">]]></description>
+            <link>https://thegrid.ai/cleo/1bcba1ce-597e-414c-9d70-b18fd980199b/index.html</link>
+            <guid isPermaLink="false">1bcba1ce-597e-414c-9d70-b18fd980199b</guid>
+            <pubDate>Sat, 30 Jan 2016 08:03:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac453c79-c17c-436f-8aaa-f0eb6467dd35.JPG">]]></description>
-            <link>undefinedabbda8f3-30da-4c09-8fc1-125390d69544/index.html</link>
+            <link>https://thegrid.ai/cleo/abbda8f3-30da-4c09-8fc1-125390d69544/index.html</link>
             <guid isPermaLink="false">abbda8f3-30da-4c09-8fc1-125390d69544</guid>
             <pubDate>Fri, 29 Jan 2016 12:57:43 GMT</pubDate>
         </item>
