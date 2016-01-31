@@ -1,5 +1,8 @@
+name: Cleo
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.3136201
 title: Cleo
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5856019672937691
-  brandStrength: 0.5
-  rhythmicContrast: 1
   brandColors:
     - '#b1bcc0'
     - '#131313'
     - '#908c83'
     - '#684c34'
     - '#3d3936'
+  brandStrength: 0.5
   lightness: 0.25
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Cleo
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.3136201
-layout_spectrum: 1
+  saturation: 0.5856019672937691
+  rhythmicContrast: 1
+purpose: []
