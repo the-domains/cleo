@@ -4,8 +4,15 @@
         <description><![CDATA[Cleo]]></description>
         <link>http://cleo.stocksfamily.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 21:59:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 00:40:19 GMT</lastBuildDate>
         <atom:link href="http://cleo.stocksfamily.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Who is that weird guy?]]></title>
+            <description><![CDATA[<article><h1>Who is that weird guy?</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df9bb3dd92ff54cf91628a63e1630d8e6ecd6f80.png"></article>]]></description>
+            <link>http://cleo.stocksfamily.org/who-is-that-weird-guy/index.html</link>
+            <guid isPermaLink="false">9a24bbec-cd8d-4a57-a41f-8fa64cce2812</guid>
+            <pubDate>Tue, 02 Feb 2016 00:40:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hiding from stormy weather]]></title>
             <description><![CDATA[<article><h1>Hiding from stormy weather</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc1eb87db7976dc16f0c865665e1f8fe1e507f05.png"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Rawr!]]></title>
-            <description><![CDATA[<article><h1>Rawr!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20027427eb59d72a9110215b51cec986b8207525.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Rawr!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a442bd6ad5a90256f54de8196fed1066d672ed0d.png"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b643a7fa-41f7-488e-aacd-2ef57d838757.png</link>
             <guid isPermaLink="false">b3c04a83-9646-48b6-b5c4-be7722565d48</guid>
             <pubDate>Mon, 01 Feb 2016 21:28:43 GMT</pubDate>
