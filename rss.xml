@@ -4,8 +4,15 @@
         <description><![CDATA[Cleo]]></description>
         <link>http://cleo.stocksfamily.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 03:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 03:22:28 GMT</lastBuildDate>
         <atom:link href="http://cleo.stocksfamily.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hiding from stormy weather]]></title>
+            <description><![CDATA[<article><h1>Hiding from stormy weather</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc1eb87db7976dc16f0c865665e1f8fe1e507f05.png"></article>]]></description>
+            <link>urn:uuid:612f6d77-2896-47a3-8c01-25cef3350317</link>
+            <guid isPermaLink="false">1677999b-7a5d-47f0-af86-b0c68ea843a4</guid>
+            <pubDate>Tue, 19 Apr 2016 03:22:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rawr!!]]></title>
             <description><![CDATA[<article><h1>Rawr!!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/95648b32e31c7d15dcebcfc53fa0b06826f36dc2.png"></article>]]></description>
