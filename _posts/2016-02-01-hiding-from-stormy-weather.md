@@ -1,20 +1,20 @@
 ---
+datePublished: '2016-06-16T23:11:25.710Z'
+sourcePath: _posts/2016-02-01-hiding-from-stormy-weather.md
 inFeed: true
-hasPage: false
-inNav: false
 isBasedOnUrl: 'urn:uuid:612f6d77-2896-47a3-8c01-25cef3350317'
-inLanguage: null
+authors: []
+hasPage: false
 keywords: []
-description: ''
-datePublished: '2016-06-16T22:57:21.644Z'
-dateModified: '2016-06-16T22:56:29.905Z'
 author:
   - name: ''
     url: ''
+dateModified: '2016-06-16T23:11:16.265Z'
 title: Hiding from stormy weather
-sourcePath: _posts/2016-02-01-hiding-from-stormy-weather.md
-authors: []
 publisher: null
+description: ''
+inLanguage: null
+inNav: false
 starred: false
 _context: 'http://schema.org'
 _type: Article
