@@ -1,8 +1,30 @@
-name: Cleo
-favicon: null
-layout_spectrum: 0.75074
 typography_spectrum: 0.20637
-title: Cleo
+color:
+  brandColors:
+    - '#b1bcc0'
+    - '#131313'
+    - '#908c83'
+    - '#684c34'
+    - '#3d3936'
+  brandStrength: 0
+  lightness: 0
+  saturation: 0.5
+  rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.75074
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Cleo
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#b1bcc0'
-    - '#131313'
-    - '#908c83'
-    - '#684c34'
-    - '#3d3936'
-  brandStrength: 0
-  lightness: 0
-  saturation: 0.5
-  rhythmicContrast: 0
+title: I'm a cat.
 purpose: []
