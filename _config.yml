@@ -19,6 +19,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Cleo
+  email: cleo@stocksfamily.org
+  url: cleo.stocksfamily.org
 name: Cleo
 cta:
   domain: null
