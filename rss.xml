@@ -4,8 +4,15 @@
         <description><![CDATA[I'm a cat.]]></description>
         <link>http://cleo.stocksfamily.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 01:10:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 11:22:04 GMT</lastBuildDate>
         <atom:link href="http://cleo.stocksfamily.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe3c88ba-efd6-45de-a335-ff78dbe50262.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4abcb96-8079-40d1-af7c-b89c22ee91ea.jpg</link>
+            <guid isPermaLink="false">18e081d6-1062-4fb0-a1a0-153b8a7ac354</guid>
+            <pubDate>Thu, 28 Jul 2016 11:21:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I am not an iPad stand!]]></title>
             <description><![CDATA[<article><h1>I am not an iPad stand!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3385b8b4-809f-4125-95f7-932af5b3b2bc.jpg"></article>]]></description>
@@ -15,14 +22,14 @@
         </item>
         <item>
             <title><![CDATA[I could go outside... but why?]]></title>
-            <description><![CDATA[<article><h1>I could go outside... but why?</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aaa40ab7801c2bc0f81955b24a451e96/croprotate.jpg?cropheight=3024&cropwidth=4032&degrees=-180&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F683405af-4252-4a1d-a047-61a0926b0396.jpg&x=0&y=0"></article>]]></description>
+            <description><![CDATA[<article><h1>I could go outside... but why?</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73878c176b7e40526da46ade5d4ae9d6ddb649ca.jpg"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/683405af-4252-4a1d-a047-61a0926b0396.jpg</link>
             <guid isPermaLink="false">099aa56f-8d83-4e81-8aef-850196bb35b2</guid>
             <pubDate>Mon, 18 Jul 2016 01:10:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[OMG - sun!]]></title>
-            <description><![CDATA[<article><h1>OMG - sun!</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/05958d49ab22c875649e744d37decab7/croprotate.jpg?cropheight=4032&cropwidth=3024&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F90959ce8-b51b-434b-a0e3-1ec03211f285.jpg&x=0&y=0"></article>]]></description>
+            <description><![CDATA[<article><h1>OMG - sun!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae4c6306550999f99ae79a83a98f945ce1dfb7f0.jpg"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/90959ce8-b51b-434b-a0e3-1ec03211f285.jpg</link>
             <guid isPermaLink="false">13cdc4f9-48c0-4f36-8457-2f6c44ed4889</guid>
             <pubDate>Mon, 18 Jul 2016 01:10:39 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b556ad51-906c-496f-92a2-687a9078be8a.png</link>
             <guid isPermaLink="false">1bcba1ce-597e-414c-9d70-b18fd980199b</guid>
             <pubDate>Thu, 16 Jun 2016 23:07:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db157fa06b920b741d32f2d5cf01d16eb91d7df1.jpg">]]></description>
-            <link>http://cleo.stocksfamily.org/abbda8f3-30da-4c09-8fc1-125390d69544/index.html</link>
-            <guid isPermaLink="false">abbda8f3-30da-4c09-8fc1-125390d69544</guid>
-            <pubDate>Thu, 16 Jun 2016 23:07:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
